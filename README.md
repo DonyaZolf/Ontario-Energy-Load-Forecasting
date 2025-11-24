@@ -66,6 +66,7 @@ This project focuses on forecasting hourly electricity demand in Ontario using h
 
 ### Tech Stack: 
 **Languages**: Python 
+
 **Libraries**: Pandas, NumPy, Scikit-learn, xgboost, Matplotlib.pyplot, Holidays, Requests 
 
 ### Next Steps: 
