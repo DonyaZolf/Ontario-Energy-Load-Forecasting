@@ -5,7 +5,8 @@ This project focuses on forecasting hourly electricity demand in Ontario using h
 
 ### Data Description 
 **Energy Demand Dataset:** Ontario hourly energy demand and pricing data from 2002 - 2023.
-Link: https://www.kaggle.com/datasets/jacobsharples/ontario-electricity-demand
+
+**Link**: https://www.kaggle.com/datasets/jacobsharples/ontario-electricity-demand
 
 **Description:** The data is from a Kaggle dataset that compiled Ontatio's hourly demand and price, originally sourced from the Independent Electricity System Operator (IESO) public reports.
 
@@ -73,9 +74,9 @@ Link: https://www.kaggle.com/datasets/jacobsharples/ontario-electricity-demand
 
 ### How to run project:
 1. Clone the repository:  
-    git clone git@github.com:DonyaZolf/Ontario-Energy-Load-Forecasting.git
-    cd Ontario-Energy-Load-Forecasting
+    ``    git clone git@github.com:DonyaZolf/Ontario-Energy-Load-Forecasting.git``
+    ``    cd Ontario-Energy-Load-Forecasting``
 2. Install dependencies: 
-    pip install -r requirements .txt
+    ``    pip install -r requirements .txt``
 3. Run the jupyter notebook. 
-    jupyter notebook
+    ``    jupyter notebook``
