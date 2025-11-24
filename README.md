@@ -74,12 +74,15 @@ This project focuses on forecasting hourly electricity demand in Ontario using h
 
 ### How to run project:
 1. Clone the repository:  
-
-    ``    git clone git@github.com:DonyaZolf/Ontario-Energy-Load-Forecasting.git``
-    ``    cd Ontario-Energy-Load-Forecasting``
+```
+git clone git@github.com:DonyaZolf/Ontario-Energy-Load-Forecasting.git
+cd Ontario-Energy-Load-Forecasting
+```
 2. Install dependencies: 
-
-    ``    pip install -r requirements .txt``
+```
+pip install -r requirements .txt``
+```
 3. Run the jupyter notebook. 
-
-    ``    jupyter notebook``
+```
+jupyter notebook
+```
